@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="ankara">Ankara</string>
+    <string name="tahran">Tahran</string>
+    <string name="paris">Paris</string>
+    <string name="panda">Giant Panda</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="london">London</string>
+    <string name="hongkong">Hong Kong</string>
+    <string name="lasvegas">Las Vegas</string>
+    <string name="five">Five (5)</string>
+    <string name="seven">Seven (7)</string>
+    <string name="six">Six (6)</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="Done">Done</string>
+</resources>
